@@ -310,7 +310,7 @@ small{
     color: #fff;
     text-shadow: none;
     display: block;
-    background-color: #be0000;
+    background-color: #D85CD5;
     position: absolute;
     top: 0;
     right: 0;
@@ -361,7 +361,7 @@ small{
 }
 .help_in{
     width: 80%;
-    border: 3px solid #be0000;
+    border: 3px solid #D85CD5;
     color: #fff;
     position: absolute;
     top: 50%;
@@ -404,7 +404,7 @@ small{
     content: "\e901";
     color: #fff;
     display: block;
-    background-color: #be0000;
+    background-color: #D85CD5;
     position: absolute;
     top: 0;
     right: 0;
@@ -446,7 +446,7 @@ small{
     z-index: 21;
 }
 .zoom_reset .zr_in{
-    background-color: #be0000;
+    background-color: #D85CD5;
     height: 30px;
     line-height: 30px;
     color: #fff;
